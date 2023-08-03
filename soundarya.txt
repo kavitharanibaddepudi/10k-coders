@@ -1,7 +1,7 @@
 <html>
 <h1><center>Soundarya</center></h1>
 <hr>
-<h2>Movies</h2>
+<h2>Movie name</h2>
 <li>Nanna Thangi (1992)</li>
 <li>Asale Pellaina Vanni (1993)</li>
 <li>Donga Alludu (1993)</li>
